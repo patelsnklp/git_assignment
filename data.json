@@ -1,5 +1,6 @@
 {
-  "name": "John Doe",
-  "age": 30,
-  "email": "johndoe@example.com"
+  "name": "Sankalp",
+  "age": 23,
+  "gpa": 5.0,
+  "email": "email@example.com"
 }
